@@ -1,7 +1,7 @@
 ohzxca
-<<<<<<< HEAD
+
 qweasdzcz
-=======
+
 
 qweqweqwe
->>>>>>> dev
+
